@@ -1,0 +1,8 @@
+{
+  "name": "cstest",
+  "description": "CloudStream eklenti deposu.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ctnkyaumt/cstest/refs/heads/builds/plugins.json"
+  ]
+}
