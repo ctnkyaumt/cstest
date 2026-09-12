@@ -1,0 +1,70 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/ctnkyaumt/cstest/builds/EnglishW.cs3",
+        "status": 1,
+        "version": 14,
+        "name": "EnglishW",
+        "internalName": "EnglishW",
+        "authors": [
+            "ctnkyaumt"
+        ],
+        "description": "One search result (EnglishW); opening a title fans out to every English source and collects all links. Auto-subtitles included.",
+        "fileSize": 156388,
+        "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
+        "apiVersion": 1,
+        "fileHash": "sha256-a2cee9a708632fd6dfd40aa6b5f0e092fea9a0e9de11462157795fd2e8feed21"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ctnkyaumt/cstest/builds/Filmmiras\u0131m.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "Filmmiras\u0131m",
+        "internalName": "Filmmiras\u0131m",
+        "authors": [
+            "byayzen"
+        ],
+        "description": "K\u00fclt\u00fcr ve Turizm Bakanl\u0131\u011f\u0131, k\u00fclt\u00fcrel miras\u0131m\u0131z\u0131n g\u00f6rsel belle\u011fini olu\u015fturan filmlerin muhafazas\u0131 ve gelecek ku\u015faklara aktar\u0131lmas\u0131 amac\u0131yla Sinema Genel M\u00fcd\u00fcrl\u00fc\u011f\u00fc b\u00fcnyesinde olu\u015fturdu\u011fu ar\u015fivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
+        "fileSize": 15162,
+        "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
+        "language": "tr",
+        "tvTypes": [
+            "Documentary"
+        ],
+        "iconUrl": "https://filmmirasim.ktb.gov.tr/favicon-r.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-45482b68a9eb43b52fed18f102c68269c3ce478117300da71ea9c6977da3e03f"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/ctnkyaumt/cstest/builds/TurkishW.cs3",
+        "status": 1,
+        "version": 15,
+        "name": "TurkishW",
+        "internalName": "TurkishW",
+        "authors": [
+            "kraptor",
+            "keyiflerolsun",
+            "byayzen",
+            "kerimmkirac",
+            "nikyokki"
+        ],
+        "description": "Tek arama sonucu (TurkishW); bir i\u00e7eri\u011fe girince t\u00fcm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canl\u0131 TV.",
+        "fileSize": 380493,
+        "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
+        "language": "tr",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Live"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
+        "apiVersion": 1,
+        "fileHash": "sha256-2aa01d4efba6b79675c3034743f6ae472911237705abf9d52964975fd31d67eb"
+    }
+]
