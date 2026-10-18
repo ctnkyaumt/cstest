@@ -1,0 +1,70 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/ctnkyaumt/cstest@a4db3ded44077532000c900e8f9502ebdc384533/EnglishW.cs3",
+    "status": 1,
+    "version": 22,
+    "name": "EnglishW",
+    "internalName": "EnglishW",
+    "authors": [
+      "ctnkyaumt"
+    ],
+    "description": "One search result (EnglishW); each English source checks its sub-sources and offers the best playable Auto stream. Auto-subtitles included.",
+    "fileSize": 245790,
+    "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
+    "apiVersion": 1,
+    "fileHash": "sha256-c79ea5fffc8fec7559b9fb9d89a635a25637ac2d15fe1cd98a65aad19274c3b2"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/ctnkyaumt/cstest@a4db3ded44077532000c900e8f9502ebdc384533/Filmmiras%C4%B1m.cs3",
+    "status": 1,
+    "version": 5,
+    "name": "Filmmirasım",
+    "internalName": "Filmmirasım",
+    "authors": [
+      "byayzen"
+    ],
+    "description": "Kültür ve Turizm Bakanlığı, kültürel mirasımızın görsel belleğini oluşturan filmlerin muhafazası ve gelecek kuşaklara aktarılması amacıyla Sinema Genel Müdürlüğü bünyesinde oluşturduğu arşivdeki filmleri dijital ortama aktarmakta ve restore etmektedir. ",
+    "fileSize": 15162,
+    "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
+    "language": "tr",
+    "tvTypes": [
+      "Documentary"
+    ],
+    "iconUrl": "https://filmmirasim.ktb.gov.tr/favicon-r.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-45482b68a9eb43b52fed18f102c68269c3ce478117300da71ea9c6977da3e03f"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/ctnkyaumt/cstest@a4db3ded44077532000c900e8f9502ebdc384533/TurkishW.cs3",
+    "status": 1,
+    "version": 94,
+    "name": "TurkishW",
+    "internalName": "TurkishW",
+    "authors": [
+      "kraptor",
+      "keyiflerolsun",
+      "byayzen",
+      "kerimmkirac",
+      "nikyokki"
+    ],
+    "description": "Tek arama sonucu (TurkishW); bir içeriğe girince tüm kaynaklardan linkleri toplar. Film, Dizi, Anime + Canlı TV.",
+    "fileSize": 543071,
+    "repositoryUrl": "https://github.com/ctnkyaumt/cstest",
+    "language": "tr",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Live"
+    ],
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=themoviedb.org",
+    "apiVersion": 1,
+    "fileHash": "sha256-59ed9c4f560eadbb92bbbab56f572eb6265ace16cbdfa922e8a874df92556749"
+  }
+]
