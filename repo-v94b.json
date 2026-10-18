@@ -1,0 +1,8 @@
+{
+  "name": "cstest",
+  "description": "CloudStream eklenti deposu.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://cdn.jsdelivr.net/gh/ctnkyaumt/cstest@7bc2342b4353f1b7317339eccc954b43c41d0c8d/plugins-v94.json"
+  ]
+}
